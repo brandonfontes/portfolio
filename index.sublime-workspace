@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"BORDER",
+				"border-radius\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tcolor"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"bo",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"typesc",
+				"Build With: typescript"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"types",
+				"Build With: typescript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/portfolio/css/creative.css",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/README.md",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/intro/intro.html",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/intro/intro.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/app/app.module.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/about/about.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/tabs/tabs.html",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/tabs/tabs.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/intro/intro.scss",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/app/app.component.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/intro/intro.module.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/app/main.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/feed/feed.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/feed/feed.scss",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/feed/feed.html",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/typescript.sublime-build",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/TypeScript-Sublime-Plugin-master/FindRefs.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/sublime-typescript-master/typescript.sublime-settings",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/feed/feed.module.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/config.xml",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/home/home.html",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/about/about.html",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/index.html",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/app/app.html",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/home/home.ts",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/pages/home/home.scss",
+		"/C/Users/Usuario/Documents/BRANDON/workspaces/ionic/myapp/src/theme/variables.scss",
+		"/C/Users/Usuario/Desktop/FaculdadeJoaquimNabuco.SI.manha.projeto.grupo/css/style.css",
+		"/C/Users/Usuario/Desktop/FaculdadeJoaquimNabuco.SI.manha.projeto.grupo/outros.html",
+		"/C/Users/Usuario/Desktop/FaculdadeJoaquimNabuco.SI.manha.projeto.grupo/curriculo.html",
+		"/C/Users/Usuario/Desktop/FaculdadeJoaquimNabuco.SI.manha.projeto.grupo/index.html",
+		"/E/Arquivos/fps.cfg",
+		"/E/Arquivos/autoexecbrandon.cfg",
+		"/E/Arquivos/CSGO.cfg",
+		"/C/Users/Usuario/Downloads/Corby2 Cfg.cfg"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/typescript.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
