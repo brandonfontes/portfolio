@@ -86,7 +86,7 @@ img::-moz-selection {
 }
 
 .icon-social {
-  height: 50px;
+  height: 40px;
   filter: grayscale(100%) contrast(1000%);
   transition: filter 0.5s;
 }
@@ -99,4 +99,26 @@ img::-moz-selection {
 
 .icon-social:hover {
   filter: grayscale(0%);
+}
+
+.anime{
+    opacity: 0;
+    transform: translate3d(-100px,0,0);
+    transition: .5s;
+}
+.anime-start{
+    opacity: 1px;
+    transform: translate3d(0,0,0);
+    transition: .5s;
+}
+
+.js .anime {
+  opacity: 0;
+  transform: translate3D(-50px, 0px, 0px);
+}
+
+.js .anime-init {
+  opacity: 1;
+  transform: translate3D(0px, 0px, 0px);
+  transition: .3s all ease;
 }
