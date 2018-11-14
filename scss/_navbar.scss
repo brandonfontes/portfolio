@@ -12,6 +12,7 @@
     &:focus,
     &:hover {
       color: darken($primary, .1);
+
     }
   }
   .navbar-nav {
@@ -39,10 +40,11 @@
     border-color: transparent;
     background-color: transparent;
     .navbar-brand {
-      color: fade-out($white, .3);
+      color: fade-out(rgba(0,0,0,0), .3);
       &:focus,
       &:hover {
-        color: $white;
+        color: rgba(0,0,0,0);
+
       }
     }
     .navbar-nav > li.nav-item > a.nav-link {
